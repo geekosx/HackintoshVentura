@@ -1,4 +1,4 @@
-<H1>a tiny Venture 13.0 hackintosh with a ITX Gigabyte Z370N motherboard</H1>
+<H1>a tiny hackintosh with a ITX Gigabyte Z370N motherboard Ventura support</H1>
 <br><b>Download EFI Opencore boot file for Ventura : 10.14.6</b>
 <br><br>Setup :
 <br>Motherboard:  Gigabyte Z370N
